@@ -1,4 +1,4 @@
 
 
 
-consol.log("Welcome javascript")
+consol.log("Welcome javascript app ")
