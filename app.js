@@ -1,5 +1,4 @@
 
 
-consol.log("w")
-consol.log("e")
-consol.log("ceeess")
+
+consol.log("Welcome javascript")
